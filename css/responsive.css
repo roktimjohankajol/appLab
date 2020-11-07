@@ -1,0 +1,110 @@
+@media only screen and (max-width: 990px) {
+    .nav-item .free_button{
+        width: 150px;
+        margin-left: 0 !important;
+        margin-top: 15px;
+    }
+    .home_left_bar h2{
+        font-size: 45px;
+    }
+    .logo_bars{
+        margin: 0;
+    }
+    .app_feature_2{
+        text-align: center;
+    }
+    .jackpot_area{
+        padding-top: 20px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .menu_item_3{
+        text-align: center;
+        margin-left: 0px;
+    }
+    .menu_item_3 h2{
+        font-size: 25px;
+    }
+    #side_item{
+        border: none;
+    }
+    .menu_item{
+        text-align: center;
+    }
+    .menu_item p{
+        margin-left: 70px;
+    }
+    .ultimate_feature{
+        text-align: center;
+    }
+    .ultimate_feature h2{
+        font-size: 25px;
+        width: 100%;
+    }
+    .ultimate_feature p{
+        width: 100%;
+    }
+    .menu_item_4{
+        text-align: center;
+    }
+    #img_3{
+        margin-top: 50px;
+    }
+    .pricing_item h2{
+        width: 400px;
+    }
+    .pricing_item p{
+        width: 400px;
+    }
+    .container_2{
+        width: 400px;
+    }
+    .home_left_bar a{
+        display: block;
+        width: 215px;
+        margin-top: 30px;
+    }
+    .app_feature_2 h2{
+        text-align: center;
+        margin: auto;
+        width: 100%;
+    }
+    .app_feature_2 p{
+        text-align: center;
+        margin: auto;
+        width: 100%;
+    }
+    .menu_item_1 .p_tag .media .media-body p{
+    width: 330px;
+    }
+    .designed_item{
+    text-align: center;
+    }
+    .designed_item h2{
+        width: 100%;
+    }
+    .designed_item p{
+        width: 100%;
+    }
+    .app_bar p{
+        width: 360px;
+    }
+    .meet_item{
+        text-align: center;
+        margin: auto;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .home_left_bar h2{
+        font-size: 45px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .logo_bar{
+        text-align: center;
+        margin: 20px 0;
+    }
+    .logo_bar_1 img{
+        margin-left: 0 !important;
+    }
+}
